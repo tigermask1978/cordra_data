@@ -1,0 +1,1 @@
+A Cordra REST API client library in Python is being developed (in part) by a few employees at NIST. A pre-alpha version is available here.
